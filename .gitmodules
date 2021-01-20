@@ -1,0 +1,72 @@
+[submodule "caffe-workspace"]
+	path = caffe-workspace
+	url = https://github.com/kendryte/caffe-workspace.git
+[submodule "kendryte-dev-extension"]
+	path = kendryte-dev-extension
+	url = https://github.com/kendryte/kendryte-dev-extension.git
+[submodule "kendryte-doc-datasheet"]
+	path = kendryte-doc-datasheet
+	url = https://github.com/kendryte/kendryte-doc-datasheet.git
+[submodule "kendryte-doc-freertos-programming-guide"]
+	path = kendryte-doc-freertos-programming-guide
+	url = https://github.com/kendryte/kendryte-doc-freertos-programming-guide.git
+[submodule "kendryte-doc-standalone-programming-guide"]
+	path = kendryte-doc-standalone-programming-guide
+	url = https://github.com/kendryte/kendryte-doc-standalone-programming-guide.git
+[submodule "kendryte-flash-windows"]
+	path = kendryte-flash-windows
+	url = https://github.com/kendryte/kendryte-flash-windows.git
+[submodule "kendryte-freertos-demo"]
+	path = kendryte-freertos-demo
+	url = https://github.com/kendryte/kendryte-freertos-demo.git
+[submodule "kendryte-freertos-sdk"]
+	path = kendryte-freertos-sdk
+	url = https://github.com/kendryte/kendryte-freertos-sdk.git
+[submodule "kendryte-gcc"]
+	path = kendryte-gcc
+	url = https://github.com/kendryte/kendryte-gcc.git
+[submodule "kendryte-gnu-toolchain"]
+	path = kendryte-gnu-toolchain
+	url = https://github.com/kendryte/kendryte-gnu-toolchain.git
+[submodule "kendryte-ide"]
+	path = kendryte-ide
+	url = https://github.com/kendryte/kendryte-ide.git
+[submodule "kendryte-ide-skel"]
+	path = kendryte-ide-skel
+	url = https://github.com/kendryte/kendryte-ide-skel.git
+[submodule "kendryte-newlib"]
+	path = kendryte-newlib
+	url = https://github.com/kendryte/kendryte-newlib.git
+[submodule "kendryte-openmv"]
+	path = kendryte-openmv
+	url = https://github.com/kendryte/kendryte-openmv.git
+[submodule "kendryte-qna"]
+	path = kendryte-qna
+	url = https://github.com/kendryte/kendryte-qna.git
+[submodule "kendryte-standalone-demo"]
+	path = kendryte-standalone-demo
+	url = https://github.com/kendryte/kendryte-standalone-demo.git
+[submodule "kendryte-standalone-sdk"]
+	path = kendryte-standalone-sdk
+	url = https://github.com/kendryte/kendryte-standalone-sdk.git
+[submodule "kendryte-tensorflow"]
+	path = kendryte-tensorflow
+	url = https://github.com/kendryte/kendryte-tensorflow.git
+[submodule "kflash-linux"]
+	path = kflash-linux
+	url = https://github.com/kendryte/kflash-linux.git
+[submodule "kflash.py"]
+	path = kflash.py
+	url = https://github.com/kendryte/kflash.py.git
+[submodule "nncase"]
+	path = nncase
+	url = https://github.com/kendryte/nncase.git
+[submodule "openocd-kendryte"]
+	path = openocd-kendryte
+	url = https://github.com/kendryte/openocd-kendryte.git
+[submodule "paddlepi"]
+	path = paddlepi
+	url = https://github.com/kendryte/paddlepi.git
+[submodule "tensorflow-workspace"]
+	path = tensorflow-workspace
+	url = https://github.com/kendryte/tensorflow-workspace.git
